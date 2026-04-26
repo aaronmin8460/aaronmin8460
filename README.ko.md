@@ -2,7 +2,7 @@
   <a href="./README.md">English</a> | 한국어
 </p>
 
-<h1 align="center">안녕하세요, Aaron Min입니다 👋</h1>
+<h1 align="center"> Aaron Min's Github 👋</h1>
 
 <p align="center">
   Purdue University에서 Computer Information Technology를 공부하고 있습니다. <br/>
