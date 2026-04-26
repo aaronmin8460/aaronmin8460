@@ -122,6 +122,6 @@ A Python-based project related to cryptocurrency data, calculations, or analysis
 
 - GitHub: [@aaronmin8460](https://github.com/aaronmin8460)
 - School: Purdue University
-- Interests: Software Engineering, Cloud Systems, Databases, Networking, Robotics
+- Interests: Software Engineering, Cloud Systems, Databases, Networking
 - Email: Byeongilmin031227@gmail.com
 - Phone: (765)409-5666
