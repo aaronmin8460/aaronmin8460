@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aaron Min 👋</h1>
+<h1 align="center">Hi, I'm Aaron Min</h1>
 
 <p align="center">
   Computer Information Technology student at Purdue University <br/>
