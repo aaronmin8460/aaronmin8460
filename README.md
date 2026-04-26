@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Aaron Min</h1>
+<p align="right">
+  English | <a href="./README.ko.md">한국어</a>
+</p>
+
+<h1 align="center">Hi, I'm Aaron Min 👋</h1>
 
 <p align="center">
   Computer Information Technology student at Purdue University <br/>
-  Interested in full-stack development, networking, cloud systems, and databases.
+  Interested in full-stack development, networking, cloud systems, databases, and AI-assisted software
 </p>
 
 ---
@@ -18,7 +22,7 @@ My current focus areas are:
 - Cloud deployment and backend systems
 - Database-driven applications
 - Linux, networking, and infrastructure
-- AI-assisted software
+- AI-assisted software development
 
 I like building systems that are practical, testable, and actually useful.  
 Not just code that compiles. That bar is underground.
@@ -104,7 +108,7 @@ A Python-based project related to cryptocurrency data, calculations, or analysis
 - Secure authentication and authorization
 - Java socket programming
 - Linux-based server management
-- Robotics and AI software systems
+- AI-assisted software systems
 
 ---
 
@@ -114,14 +118,28 @@ A Python-based project related to cryptocurrency data, calculations, or analysis
 - Improve backend and deployment skills
 - Gain more experience with cloud infrastructure
 - Work on practical software systems that solve real-world problems
-- Grow toward robotics and AI-focused software development
+- Grow toward AI-supported and infrastructure-oriented software development
+
+---
+
+## GitHub Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmin8460&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ## Contact
 
 - GitHub: [@aaronmin8460](https://github.com/aaronmin8460)
-- School: Purdue University
-- Interests: Software Engineering, Cloud Systems, Databases, Networking
-- Email: Byeongilmin031227@gmail.com
+- Email: byeongilmin031227@gmail.com
 - Phone: (765)409-5666
+- School: Purdue University
+- Interests: Software Engineering, Cloud Systems, Databases, Networking, Infrastructure
+
+---
+
+<p align="center">
+  Building software one bug at a time — because apparently that's the contract we signed as developers.
+</p>
