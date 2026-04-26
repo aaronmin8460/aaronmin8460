@@ -125,9 +125,3 @@ A Python-based project related to cryptocurrency data, calculations, or analysis
 - Interests: Software Engineering, Cloud Systems, Databases, Networking, Robotics
 - Email: Byeongilmin031227@gmail.com
 - Phone: (765)409-5666
-
----
-
-<p align="center">
-  Building software one bug at a time — because apparently that's the contract we signed as developers.
-</p>
