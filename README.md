@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a Computer Science student at Purdue University who enjoys building practical software systems that connect users, data, and services.
+I am a Computer Information Technology student at Purdue University who enjoys building practical software systems that connect users, data, and services.
 
 My current focus areas are:
 
@@ -18,7 +18,7 @@ My current focus areas are:
 - Cloud deployment and backend systems
 - Database-driven applications
 - Linux, networking, and infrastructure
-- Robotics and AI-assisted software
+- AI-assisted software
 
 I like building systems that are practical, testable, and actually useful.  
 Not just code that compiles. That bar is underground.
