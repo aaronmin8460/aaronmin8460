@@ -121,17 +121,10 @@ React 기반의 협업 프론트엔드 팀 프로젝트입니다.
 
 ---
 
-## GitHub Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmin8460&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## Contact
 
 - GitHub: [@aaronmin8460](https://github.com/aaronmin8460)
+- Email: byeongilmin031227@gmail.com
 - School: Purdue University
 - Interests: Software Engineering, Cloud Systems, Databases, Networking, Infrastructure
 
