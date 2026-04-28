@@ -22,7 +22,6 @@ My current focus areas are:
 - Cloud deployment and backend systems
 - Database-driven applications
 - Linux, networking, and infrastructure
-- AI-assisted software development
 
 I like building systems that are practical, testable, and actually useful.  
 Not just code that compiles. That bar is underground.
